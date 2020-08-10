@@ -15,7 +15,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]
     ),
     new Album(
@@ -28,7 +28,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]
     ),
     new Album(
@@ -41,7 +41,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]),
     new Album(
       2, 
@@ -53,7 +53,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]),
     new Album(
       3, 
@@ -65,7 +65,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]),
     new Album(
       4, 
@@ -77,7 +77,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]),
     new Album(
       5, 
@@ -89,7 +89,7 @@ getDiscography(){
         new Song(0, "song 1", 100),
         new Song(1, "song 2", 100),
         new Song(2, "song 3", 100),
-        new Song(3, "song 3", 100),
+        new Song(3, "song 4", 100),
       ]),
   ];
 }
